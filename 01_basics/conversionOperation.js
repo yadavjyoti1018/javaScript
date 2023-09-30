@@ -21,3 +21,13 @@ let string = String(a)
 console.log(string)
 console.log(typeof string);
 
+/************************* OPERATIONS *****************************/
+
+console.log("1" + 2);
+console.log(1 + "2");
+console.log("1" + 2 + 2);
+console.log(3 + 1 + "2");    //42
+
+console.log(+true);
+// console.log(true+);
+console.log(+"");
